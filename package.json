@@ -1,0 +1,24 @@
+{
+  "name": "normatives-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalinartem/rus-athlrtics-normatives-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "express"
+  ],
+  "author": "Artem Kalinin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalinartem/rus-athlrtics-normatives-backend/issues"
+  },
+  "homepage": "https://github.com/kalinartem/rus-athlrtics-normatives-backend#readme"
+}
